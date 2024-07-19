@@ -1,0 +1,10 @@
+INSERT INTO staff_info VALUE (1,"Jame Smith","M","1990-10-13","JameSmith@nationlib.edu.vn",3);
+INSERT INTO staff_info VALUE (2,"Robert William ","M","1999-02-04","RobertWilliam@nationlib.edu.vn",5);
+INSERT INTO staff_info VALUE (3,"John  Brown","M","1984-05-29","JohnBrown@nationlib.edu.vn",2);
+INSERT INTO staff_info VALUE (4,"Michael Milles","M","1992-03-11","MichaelMilles@nationlib.edu.vn",5);
+INSERT INTO staff_info VALUE (5,"David Johns","M","1996-10-31","DavidJohns@nationlib.edu.vn",5);
+INSERT INTO staff_info VALUE (6,"Mary  Smith","F","1985-12-20","MarySmith@nationlib.edu.vn",1);
+INSERT INTO staff_info VALUE (7,"Jenifer Garcia","F","2000-08-30","JeniferGarcia@nationlib.edu.vn",3);
+INSERT INTO staff_info VALUE (8,"Susan  Swift","F","1990-08-08","SusanSwift@nationlib.edu.vn",4);
+INSERT INTO staff_info VALUE (9,"Lisa Brown ","F","1993-07-13","LisaBrown@nationlib.edu.vn",4);
+INSERT INTO staff_info VALUE (10,"Emily Thomson","F","1987-06-13","EmilyThomson@nationlib.edu.vn",5);

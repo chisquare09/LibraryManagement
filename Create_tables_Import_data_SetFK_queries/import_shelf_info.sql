@@ -1,0 +1,10 @@
+INSERT INTO shelf_info VALUE (1,1);
+INSERT INTO shelf_info VALUE (2,1);
+INSERT INTO shelf_info VALUE (3,1);
+INSERT INTO shelf_info VALUE (4,1);
+INSERT INTO shelf_info VALUE (5,1);
+INSERT INTO shelf_info VALUE (6,2);
+INSERT INTO shelf_info VALUE (7,2);
+INSERT INTO shelf_info VALUE (8,2);
+INSERT INTO shelf_info VALUE (9,2);
+INSERT INTO shelf_info VALUE (10,2);
